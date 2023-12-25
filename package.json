@@ -1,0 +1,15 @@
+{
+  "name": "@riosst100/language-pack",
+  "version": "1.0.1",
+  "author": "riosst100",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./i18n-intercept.js",
+  "pwa-studio": {
+    "targets": {
+      "intercept": "./i18n-intercept"
+    }
+  }
+}
